@@ -1,0 +1,24 @@
+# --- Python & Sistem Dosyaları ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+ENV/
+build/
+dist/
+*.spec
+
+# --- Loglama (Logging) ---
+*.log
+
+# --- IDE Dosyaları ---
+.vscode/
+.idea/
+.DS_Store
+
+
+# Test sırasında oluşan sonuçlar
+tests/.pytest_cache/
+.pytest_cache/

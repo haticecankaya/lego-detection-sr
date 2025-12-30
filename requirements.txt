@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+ultralytics
+basicsr
+realesrgan
+Pillow
+numpy
+pytest
