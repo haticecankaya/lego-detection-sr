@@ -4,7 +4,7 @@ Bu proje, düşük çözünürlüklü veya geniş açılı görüntülerdeki kü
 
 ---
 
-## 📋 1. Proje Hakkında ve Amaç
+## 📋 1. Proje Amacı ve Sonuçlar 
 
 Siber güvenlik ve görüntü işleme alanlarında, net olmayan görüntülerden bilgi çıkarımı kritik bir öneme sahiptir. Bu proje, **nesne tespiti (Object Detection)** ve **süper çözünürlük (Super Resolution)** teknolojilerini birleştirerek aşağıdaki problemleri çözmeyi hedefler:
 
@@ -16,6 +16,13 @@ Siber güvenlik ve görüntü işleme alanlarında, net olmayan görüntülerden
 * **YOLOv8:** Hızlı ve hassas nesne tespiti için.
 * **Real-ESRGAN:** Görüntü netleştirme ve çözünürlük artırma (4x upscaling) için.
 * **Streamlit:** İnteraktif web arayüzü için.
+
+**Sonuçlar**
+<img width="945" height="451" alt="image" src="https://github.com/user-attachments/assets/5ae367a3-a8d1-4d8d-bb3b-ff951e6641b9" />
+<img width="945" height="410" alt="image" src="https://github.com/user-attachments/assets/ee1292b5-90b1-49d6-b61a-93daeadb092a" />
+<img width="945" height="506" alt="image" src="https://github.com/user-attachments/assets/7735c7d6-1cbf-46ed-9cf5-547fbd114a1c" />
+<img width="945" height="362" alt="image" src="https://github.com/user-attachments/assets/b5ef25e5-f2dc-4875-8f6c-5cdc41f751af" />
+
 
 ---
 
